@@ -1,4 +1,5 @@
 __pycache__
 .idea/
-data/
 venv/
+data/
+test_run/coherence/data
